@@ -6,7 +6,8 @@ A foundational component of all modern web browsers is interactivity based aroun
 
 ## Event Listeners and the DOM
 **GOAL**: Today we are going to add event listeners to our web pages in order to create an app that turns a light on and off when clicked.  
-![](https://media.giphy.com/media/j241g6JYc3nVproamw/giphy.gif)
+![](https://media.giphy.com/media/j241g6JYc3nVproamw/giphy.gif) 
+
 HTML events are **"things"** that happen to HTML elements. Events are things like click, a page has loaded, or a certain key is pressed. When JavaScript is used in HTML pages, JavaScript can **"react"** on these events. [A full list of HTML events can be found here.](https://www.w3schools.com/jsref/dom_obj_event.asp)
 
 When a web page is loaded, the browser creates a **D**ocument **O**bject **M**odel of the page otherwise known as the DOM.
